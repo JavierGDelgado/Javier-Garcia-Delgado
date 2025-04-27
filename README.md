@@ -1,2 +1,2 @@
 # Javier-Garcia-Delgado
-Personal README to introduce myself on GitHub.
+Personal README | Junior Data Analyst passionate about real-world problem solving through data science.
