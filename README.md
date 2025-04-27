@@ -27,6 +27,6 @@ I am currently expanding my skills in data analysis, machine learning, and data 
 
 
 ##  Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/javiergdelgado) 
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/javiergdelgado) 
 
 Thanks for visiting my profile!
