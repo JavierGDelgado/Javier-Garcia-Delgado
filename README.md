@@ -11,7 +11,7 @@ I am currently expanding my skills in data analysis, machine learning, and data 
 -  Enthusiastic about data exploration, visualization, and uncovering actionable insights from complex datasets.
 -  I´ve always felt a strong need to develop my full potential, and I´ve found that data science is the most powerful way to do so - by connecting analytical thinking with real-world impact.
 -  Particularly interested in biomedical data analysis, including genomics and transcriptomics (RNA-Seq), as well as apllications in renewable energy.
--  Cirrently pursuing an MSc in Data Science & Comupting Systems (University of Granada, UGR) and collaborating on academic research projects in biomedicine.
+-  Currently pursuing an MSc in Data Science & Comupting Systems (University of Granada, UGR) and collaborating on academic research projects in biomedicine.
 -  Focused on building a strong foundation to transition into Data Science roles in the near future.
 -  Motivated by projects that have a tangible, positive impact on society.
 
