@@ -18,7 +18,7 @@ I am currently expanding my skills in data analysis, machine learning, and data 
 
 ##  Currently Learning
 - Bioinformatics and RNA-Seq data Analysis and Visualization using real-woorld biomedical datasets (e.q T.C.G.A).
-- Machine Learning and Predictive Modeling applied to health and genimics.
+- Machine Learning and Predictive Modeling applied to health and genomics.
 - Advanced Statistics and Mathematics Foundations for Data Science.
 
 
