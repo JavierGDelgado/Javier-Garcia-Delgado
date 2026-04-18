@@ -1,5 +1,5 @@
 # Javier Garcia Delgado
-Personal README | Junior Data Scientist | MSc Data Science & Computing Systems (University of Granada, UGR) | I´m passionate about solving real-world problemsvthrough data science.
+Personal README | Junior Data Scientist | MSc Data Science & Computing Systems (University of Granada, UGR) | I´m passionate about solving real-world problems through data science.
 
 # Hi there 
 
