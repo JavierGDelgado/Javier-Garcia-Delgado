@@ -3,10 +3,17 @@
 Junior Data Scientist and Business Analyst with a MSc in Data Science & Computing Systems (University of Granada). Passionate about extracting actionable insights from data to drive business decisions and solve real-world problems.
 
 ## About Me
+- MSc in Data Science & Computing Systems (University of Granada) — finalizing 2026
+- Google Data Analytics Certificate (Coursera/Google, 2025)
+- Currently completing Google Cloud Data Analyst Certificate (Google)
+- Python for Data Science & Business Analytics — DS4B (2025)
+# 🏆 GenAI Arena — SIDN | First Prize
+## Social Listening & Trend Detection Platform — Team 1
 
-- MSc in Data Science & Computing Systems (University of Granada) — finalizing 2025
-- Currently completing Google Data Analytics Certificate (Coursera)
-- Experience applying data analysis and machine learning to business, energy and biomedical domains
+End-to-end social listening pipeline for predictive trend detection across social media platforms.
+Built as part of the SIDN GenAI Arena Hackathon 2026 — First Prize Winner.
+
+**My contribution:** YouTube pipeline — dual-pass extraction, trend scorer, real-time monitoring and AI-powered content recommendations with Gemini.
 - Motivated by projects with tangible impact on society and sustainability
 
 ## What I Do
@@ -28,6 +35,8 @@ Junior Data Scientist and Business Analyst with a MSc in Data Science & Computin
 - Grow in roles combining technical analysis with business strategy
 - Build scalable data solutions connected to BI tools
 
+## Tools: Python, SQL, SQLite, SQLAlchemy, Tableau, Jupyter, Git, GitHub, Google Cloud Platform, BeautifulSoup, Selenium, REST APIs, PyTorch (basic)
+  
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/javiergdelgado) | [Email](mailto:javiergd.datascientist@gmail.com)
