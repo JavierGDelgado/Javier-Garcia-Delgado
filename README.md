@@ -37,7 +37,8 @@ Built as part of the SIDN GenAI Arena Hackathon 2026 — First Prize Winner.
 - Grow in roles combining technical analysis with business strategy
 - Build scalable data solutions connected to BI tools
 
-## Tools: Python, SQL, SQLite, SQLAlchemy, Tableau, Jupyter, Git, GitHub, Google Cloud Platform, BeautifulSoup, Selenium, REST APIs, PyTorch (basic)
+## Tools
+Python, SQL, SQLite, SQLAlchemy, Tableau, Jupyter, Git, GitHub, Google Cloud Platform, BeautifulSoup, Selenium, REST APIs, PyTorch (basic)
   
 ## Contact
 
