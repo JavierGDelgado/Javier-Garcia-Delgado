@@ -38,7 +38,7 @@ Built as part of the SIDN GenAI Arena Hackathon 2026 — First Prize Winner.
 - Build scalable data solutions connected to BI tools
 
 ## Tools
-Python, SQL, SQLite, SQLAlchemy, Tableau, Jupyter, Git, GitHub, Google Cloud Platform, BeautifulSoup, Selenium, REST APIs, PyTorch (basic)
+Python, R, Seaborn, Matplotlib, SQL, SQLite, SQLAlchemy, Tableau, Jupyter, GitHub, Google Cloud Platform, Selenium, REST APIs, PyTorch (basic)
   
 ## Contact
 
