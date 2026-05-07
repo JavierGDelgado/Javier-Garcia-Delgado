@@ -1,34 +1,36 @@
 # Javier Garcia Delgado
-Personal README | Junior Data Scientist | MSc Data Science & Computing Systems (University of Granada, UGR) | I´m passionate about solving real-world problems through data science.
 
-# Hi there 
+Junior Data Scientist and Business Analyst with a MSc in Data Science & Computing Systems (University of Granada). Passionate about extracting actionable insights from data to drive business decisions and solve real-world problems.
 
-I'm a Junior Data Scientist and MSc student in Data Science & Computing Systems (University of Granada): I´m passionate about applying data-driven approachs to solve real-world problems, especially in biomedicine, genomics, and renewable energy.  
-I am currently expanding my skills in data analysis, machine learning, and data science, with the goal of contributing to projects that advance healthcare, scientific research, and sustainability.
+## About Me
 
+- MSc in Data Science & Computing Systems (University of Granada) — finalizing 2025
+- Currently completing Google Data Analytics Certificate (Coursera)
+- Experience applying data analysis and machine learning to business, energy and biomedical domains
+- Motivated by projects with tangible impact on society and sustainability
 
-##  About Me
--  Enthusiastic about data exploration, visualization, and uncovering actionable insights from complex datasets.
--  I´ve always felt a strong need to develop my full potential, and I´ve found that data science is the most powerful way to do so - by connecting analytical thinking with real-world impact.
--  Particularly interested in biomedical data analysis, including genomics and transcriptomics (RNA-Seq), as well as apllications in renewable energy.
--  Currently pursuing an MSc in Data Science & Computing Systems (University of Granada, UGR) and collaborating on academic research projects in biomedicine.
--  Focused on building a strong foundation to transition into Data Science roles in the near future.
--  Motivated by projects that have a tangible, positive impact on society.
+## What I Do
 
+- Business Analytics: KPI dashboards, conversion funnel analysis, customer segmentation (RFM), cohort analysis and LTV
+- Machine Learning: predictive modeling, clustering and recommendation systems
+- Data Engineering: ETL pipelines, data quality, SQL and database integration
+- Domains: e-commerce, real estate, renewable energy, biomedicine
 
-##  Currently Learning
-- Bioinformatics and RNA-Seq data Analysis and Visualization using real-woorld biomedical datasets (e.q T.C.G.A).
-- Machine Learning and Predictive Modeling applied to health and genomics.
-- Advanced Statistics and Mathematics Foundations for Data Science.
+## Currently Learning
 
+- Google Cloud Platform and BigQuery
+- Looker Studio for business intelligence dashboards
+- FinOps and cloud cost optimization
 
-##  Goals
-- Contribute to interdisciplinary projects that use data to solve real-world challenges in healthcare, genomics and sustainability.  
-- Continue growing both technically and professionally in the fields of health, genomics, and sustainability.
-- Build a career based on continuous learning, scientific rigor, and real-world impact.
+## Goals
 
+- Contribute to data-driven projects that generate measurable business impact
+- Grow in roles combining technical analysis with business strategy
+- Build scalable data solutions connected to BI tools
 
-##  Let's Connect
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/javiergdelgado) 
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/javiergdelgado) | [Email](mailto:javiergd.datascientist@gmail.com)
+
 
 Thanks for visiting my profile!
