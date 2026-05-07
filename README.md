@@ -7,14 +7,16 @@ Junior Data Scientist and Business Analyst with a MSc in Data Science & Computin
 - Google Data Analytics Certificate (Coursera/Google, 2025)
 - Currently completing Google Cloud Data Analyst Certificate (Google)
 - Python for Data Science & Business Analytics — DS4B (2025)
-# 🏆 GenAI Arena — SIDN | First Prize
+- Motivated by projects with tangible impact on society and sustainability
+  
+## 🏆 GenAI Arena — SIDN | First Prize
 ## Social Listening & Trend Detection Platform — Team 1
 
 End-to-end social listening pipeline for predictive trend detection across social media platforms.
 Built as part of the SIDN GenAI Arena Hackathon 2026 — First Prize Winner.
 
 **My contribution:** YouTube pipeline — dual-pass extraction, trend scorer, real-time monitoring and AI-powered content recommendations with Gemini.
-- Motivated by projects with tangible impact on society and sustainability
+
 
 ## What I Do
 
