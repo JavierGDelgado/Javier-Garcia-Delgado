@@ -15,8 +15,9 @@ Junior Data Scientist and Business Analyst with a MSc in Data Science & Computin
 End-to-end social listening pipeline for predictive trend detection across social media platforms.
 Built as part of the SIDN GenAI Arena Hackathon 2026 — First Prize Winner.
 
-**My contribution:** YouTube pipeline — dual-pass extraction, trend scorer, real-time monitoring and AI-powered content recommendations with Gemini.
-
+**My contribution:** 
+  - YouTube pipeline: dual-pass extraction, trend scorer, real-time monitoring and AI-powered content recommendations with Gemini.
+  - Also contributed to the business strategy and product definition leveraging a hybrid background in Business Administration and Data Science.
 
 ## What I Do
 
